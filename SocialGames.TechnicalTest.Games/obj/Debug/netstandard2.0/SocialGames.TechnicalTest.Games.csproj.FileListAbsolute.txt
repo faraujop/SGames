@@ -1,0 +1,9 @@
+/Users/faraujo/Downloads/SocialGames.TechnicalTest/SocialGames.TechnicalTest.Games/bin/Debug/netstandard2.0/SocialGames.TechnicalTest.Games.deps.json
+/Users/faraujo/Downloads/SocialGames.TechnicalTest/SocialGames.TechnicalTest.Games/bin/Debug/netstandard2.0/SocialGames.TechnicalTest.Games.dll
+/Users/faraujo/Downloads/SocialGames.TechnicalTest/SocialGames.TechnicalTest.Games/bin/Debug/netstandard2.0/SocialGames.TechnicalTest.Games.pdb
+/Users/faraujo/Downloads/SocialGames.TechnicalTest/SocialGames.TechnicalTest.Games/obj/Debug/netstandard2.0/SocialGames.TechnicalTest.Games.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faraujo/Downloads/SocialGames.TechnicalTest/SocialGames.TechnicalTest.Games/obj/Debug/netstandard2.0/SocialGames.TechnicalTest.Games.AssemblyInfoInputs.cache
+/Users/faraujo/Downloads/SocialGames.TechnicalTest/SocialGames.TechnicalTest.Games/obj/Debug/netstandard2.0/SocialGames.TechnicalTest.Games.AssemblyInfo.cs
+/Users/faraujo/Downloads/SocialGames.TechnicalTest/SocialGames.TechnicalTest.Games/obj/Debug/netstandard2.0/SocialGames.TechnicalTest.Games.csproj.CoreCompileInputs.cache
+/Users/faraujo/Downloads/SocialGames.TechnicalTest/SocialGames.TechnicalTest.Games/obj/Debug/netstandard2.0/SocialGames.TechnicalTest.Games.dll
+/Users/faraujo/Downloads/SocialGames.TechnicalTest/SocialGames.TechnicalTest.Games/obj/Debug/netstandard2.0/SocialGames.TechnicalTest.Games.pdb
